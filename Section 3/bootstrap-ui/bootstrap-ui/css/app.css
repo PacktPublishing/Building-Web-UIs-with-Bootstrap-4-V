@@ -1,0 +1,50 @@
+body {
+	padding: 80px 0;
+}
+
+.img-grayscale {
+	-webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+
+.nav-pills {
+	margin-bottom: 20px;
+}
+
+
+#contentTab {
+	margin-bottom: 20px;
+}
+
+
+/****************************************************
+	RESPONSIVE MEDIA QUERIES
+*****************************************************/
+
+/* SMALLER LAPTOPS */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* TABLETS (iPAD) */
+@media only screen and (max-width : 992px) {
+}
+
+/* SMALL TABLETS AND PHABLETS */
+@media only screen and (max-width : 767px) {
+	h3 {
+		text-align: center;
+	}
+}
+
+/* PHONES */
+@media only screen and (max-width : 480px) {
+	p {
+		font-size: 14px;
+		line-height: 21px;
+	}
+
+	.phone-center {
+		text-align: center;
+	}
+}
