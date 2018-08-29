@@ -7,8 +7,14 @@ If you're looking to build compelling web UIs with one of the most complete fram
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Create a single-page website from scratch 
-<LI>Use Bootstrap classes for rapid web development </LI></UL></DIV>
+<LI>Work with menus and navigation in Bootstrap 4 
+<LI>Get to grips with how the web is heading and how you can stay on top of the mobile trend
+<LI>Work with Bootstrap’s powerful grid-system
+<LI>Layout and customize your Bootstrap 4 UI
+<LI>Using Bootstrap’s form helper and contextual classes to add responsiveness to your app 
+<LI>Create a compelling and dynamic Bootstrap 4 UI using Bootstrap Toggle
+<LI>Get familiar with the best practices of modern web design
+<LI>Integrate your web pages with Bootstrap’s jQuery plugins and create your own plugins</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
@@ -16,9 +22,9 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 If you are a web designer or a developer who is familiar with the basics of Bootstrap and now want to build highly responsive and professional web pages using Bootstrap 4, this video will enable you to build fluid web UIs. Prior knowledge of HTML, CSS and jQuery, and some experience of incorporating JavaScript plugins is helpful.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-HTML/CSS basics
-Basic knowledge of Bootstrap 4 and 3
-JavaScript basics
+<LI>HTML/CSS basics
+<LI>Basic knowledge of Bootstrap 4 and 3
+<LI>JavaScript basics
 
 
 
